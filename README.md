@@ -38,19 +38,27 @@
 写真を見て旅行先を決めたいときや、旅行の体験を共有したいとき
 
 ## 設計書
+- [画面設計](https://docs.google.com/presentation/d/1dAfPUM-p74RnjEtseBfTvNQT3Rf6nOjHnngtHJfZQuw/edit#slide=id.p)
+- [ER図](https://app.diagrams.net/#Hkotahorii%2Fportfolio-test-version5%2Fmain%2Fportfolio-ER)
+- [テーブル定義書](https://docs.google.com/spreadsheets/d/15CmrfsiyR5-Wt8LbR-aFrqP6DAJNOQcY8ocfmICC5Js/edit#gid=0)
+- [アプリケーション詳細設計](https://docs.google.com/spreadsheets/d/1V0X5cWkVxZ7Lj1Fr7aR-Bw7RmobSctyXPTUn-v1n8Po/edit#gid=0)
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1ittBVo9v3b6MZ9PbB00ALyIQraBvJm0FibOh4J_4yp4/edit#gid=0
 
 ## 開発環境
-- OS：macOs Big Sur, Linux(CentOS)
+- OS：macOs Big Sur, Amazon Linux 2
 - ブラウザ：Google chrome
 - 言語：HTML, CSS, TypeScript, Ruby, SQL
 - フレームワーク：Ruby on Rails
 - JSフレームワーク：React
 - IDE：Cloud9, Visual Studio Code
 
+## フロントエンドURL
+https://github.com/kotahorii/Photrip-front
+
 ## 使用素材
 - [ぱくたそ](https://www.pakutaso.com/)
 - [MorgueFile](https://morguefile.com/)
 - [DesignEvo](https://www.designevo.com/)
+- [Photock](https://www.photock.jp/list/r/birthplace/)
